@@ -53,7 +53,7 @@ const Name = styled.h1`
 
 const NameArticle = styled.div`
   white-space: nowrap;
-  font-size: ${fontSize.f4};
+  font-size: ${fontSize.f2};
   font-weight: 700;
   text-align: left;
   margin: 0;
