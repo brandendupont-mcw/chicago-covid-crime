@@ -39,15 +39,14 @@ const NameLink = styled.a`
 `
 
 const Name = styled.h1`
-  white-space: nowrap;
-  font-size: ${fontSize.f5};
+  font-size: ${fontSize.f6};
   text-align: left;
   margin: 0;
   line-height: 1.2;
   letter-spacing: -0.8px;
   ${media.sm`
     text-align: center;
-    font-size: ${fontSize.f7};
+    font-size: ${fontSize.f5};
   `};
 `
 
