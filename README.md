@@ -1,9 +1,10 @@
-# gabriel-adorf-portfolio
+# Covid-19's Effect on Chicago Crime Trends
 Gabriel Adorf's personal website
 
-Check it out here: [gabrieladorf.com](https://gabrieladorf.com)
+The coronavirus's rapid spread have required Chicago and Cook County justice agencies to quickly respond to the crisis. On March 24th, Chicago Police directed officers to reduce police stops and issue citations in lieu of low-level misdemeanors. The Cook County Jail began on March 17th a reassesment of bond for primarily non-violent offenders.
 
-Feel free to build your own portfolio by forking and customizing this page.
-Built with [gatsby](https://github.com/gatsbyjs/gatsby) and [styled components](https://github.com/styled-components/styled-components).
+Concerns of a crime wave have been raised primarily by law enforcement agencies. Early analysis by the Marshall Project suggests the opposite trend. Reported crime is down across the country in major cities.
 
-DM me on [twitter](https://twitter.com/gabdorf) if you have any questions.
+This project tracks reported crime trends in Chicago on a weekly basis. Incident data is pulled from the Chicago Data Portal.
+
+This project is built using a modified open source website. Check it out on [gabrieladorf.com](https://gabrieladorf.com). Thanks to Gabriel Adorf.
