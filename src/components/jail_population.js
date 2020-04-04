@@ -16,7 +16,7 @@ const Container = styled.div`
     max-width: 600px;
   `}
   ${media.sm`
-  min-width: 400px;
+  min-width: 300px;
 `}
 `
 function JailPopulation() {
