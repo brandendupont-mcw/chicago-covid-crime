@@ -62,6 +62,7 @@ const NameArticle = styled.div`
   color: ${color.grey900};
   ${media.xs`
     text-align: center;
+    font-size: ${fontSize.f2};
   `};
 `
 
