@@ -4,8 +4,9 @@ import GlobalWrapper from 'components/global-wrapper'
 import Hero from 'components/hero'
 import Section from 'components/section'
 import About from 'components/about'
-import Work from 'components/work'
-import Writing from 'components/writing'
+import NotableTrends from 'components/notable_trends'
+import NeighborhoodTrends from 'components/neighborhood'
+import JailPopulation from 'components/jail_population'
 import Footer from 'components/footer'
 
 export default class App extends React.Component {
@@ -16,11 +17,14 @@ export default class App extends React.Component {
         <Section id={'about'}>
           <About />
         </Section>
-        <Section id={'projects'}>
-          <Work />
+        <Section id={'key-trends'}>
+          <NotableTrends/>
         </Section>
-        <Section>
-          <Writing />
+        <Section id={'jail-population'}>
+          <JailPopulation/>
+        </Section>
+        <Section id={'chicago-neighborhoods'}>
+          <NeighborhoodTrends/>
         </Section>
         <Footer />
       </GlobalWrapper>

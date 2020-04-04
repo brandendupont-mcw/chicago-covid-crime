@@ -49,7 +49,7 @@ const Abstract = styled.div`
 function Project(props) {
   return (
     <ProjectWrapper>
-      <Logo>{props.logo}</Logo>
+      <Logo></Logo>
       <Description>
         <Title>{props.title}</Title>
         <Abstract>{props.abstract}</Abstract>

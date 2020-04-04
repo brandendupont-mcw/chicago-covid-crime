@@ -7,6 +7,7 @@ import TwoColumns from 'components/twoColumns'
 import SectionHeading from 'components/sectionHeading'
 import DataWrapChart from '../components/datawrap';
 
+
 const Container = styled.div`
   max-width: 700px;
   min-width: 600px;
@@ -20,16 +21,15 @@ const Container = styled.div`
 `}
 `
 
-function About() {
+function NotableTrends() {
   return (
     <TwoColumns
-      leftColumn={<SectionHeading>Overall Trends</SectionHeading>}
+      leftColumn={<SectionHeading>Offense Type</SectionHeading>}
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/2Zkyr/4/
-"/>  </Container>
-
+          <DataWrapChart title="Top 10 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" height="500"  allowfullscreen="true" src="//datawrapper.dwcdn.net/sBmMP/3/
+"/></Container>
 
         </Fragment>
       }
@@ -37,4 +37,4 @@ function About() {
   )
 }
 
-export default About
+export default NotableTrends

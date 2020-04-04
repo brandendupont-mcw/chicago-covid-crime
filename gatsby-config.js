@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: `Gabriel Adorf`,
+    title: `Loyola University Chicago`,
   },
   plugins: [
     {
@@ -17,6 +17,19 @@ module.exports = {
         styles: path.join(__dirname, 'src/styles'),
         utils: path.join(__dirname, 'src/utils'),
       },
+      plugins: [
+        {
+          resolve: `gatsby-plugin-manifest`,
+          options: {
+            name: `Loyola University Chicago`,
+            short_name: `Loyola University Chicago`,
+            start_url: `/`,
+            background_color: `#f7f0eb`,
+            theme_color: `#a2466c`,
+            display: `standalone`,
+          },
+        },
+      ],
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,

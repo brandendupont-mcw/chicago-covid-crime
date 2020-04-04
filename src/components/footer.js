@@ -1,7 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
 import media from 'utils/media-queries'
-
 import { fontSize } from 'styles/theme'
 
 import Section from 'components/section'
@@ -17,15 +16,28 @@ const FooterText = styled.div`
     font-size: ${fontSize.f1};
   `}
 `
+const ImgDiv = styled.div`
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  ${media.sm`
+    width: auto;
+    height: auto;
+`}
+`
 
 function Footer() {
   return (
     <Section>
+      <ImgDiv>
+      <img src='https://www.luc.edu/media/lucedu/universitymarketingcommunication/horizontal-bw.jpg' alt=''></img>
+      </ImgDiv>
       <FooterText>
-        This page is open source, Check it out on&nbsp;
+        This project is built using a modified open source website. Check it out on&nbsp;
         <a href="https://github.com/gabdorf/gabriel-adorf-portfolio">Github</a>
-        <br />© 2020 Gabriel Adorf&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-        <a href="/imprint">Imprint</a>
+        <br /> Thanks to Gabriel Adorf.
       </FooterText>
     </Section>
   )

@@ -2,10 +2,10 @@ import React, { Fragment } from 'react'
 import styled from 'styled-components'
 import media from 'utils/media-queries'
 
-
 import TwoColumns from 'components/twoColumns'
 import SectionHeading from 'components/sectionHeading'
 import DataWrapChart from '../components/datawrap';
+
 
 const Container = styled.div`
   max-width: 700px;
@@ -20,16 +20,16 @@ const Container = styled.div`
 `}
 `
 
-function About() {
+function NeighborhoodTrends() {
   return (
     <TwoColumns
-      leftColumn={<SectionHeading>Overall Trends</SectionHeading>}
+      leftColumn={<SectionHeading>Chicago Neighborhoods</SectionHeading>}
       rightColumn={
         <Fragment>
-          <Container>
-          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/2Zkyr/4/
-"/>  </Container>
+        <Container>
 
+          <DataWrapChart title="Chicago Crime" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" height="800"  allowfullscreen="true" src="//datawrapper.dwcdn.net/DW8t8/3/
+"/></Container>
 
         </Fragment>
       }
@@ -37,4 +37,4 @@ function About() {
   )
 }
 
-export default About
+export default NeighborhoodTrends

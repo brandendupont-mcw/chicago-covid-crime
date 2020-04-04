@@ -8,7 +8,7 @@ const H2 = styled.h2`
   display: inline-block;
   font-size: ${fontSize.f5};
   color: ${color.grey900};
-  letter-spacing: 5px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   font-weight: 700;
   margin: 6px 0 0 0;

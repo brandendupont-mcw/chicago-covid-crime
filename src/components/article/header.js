@@ -4,11 +4,8 @@ import styled from 'styled-components'
 import media from 'utils/media-queries'
 
 import { color } from 'styles/theme'
-
-import Header from 'components/header'
 import Icon from 'components/icons'
 
-const TitleBar = styled.div``
 
 const BackArrow = styled(Link)`
   position: absolute;
@@ -39,15 +36,9 @@ const Title = styled.div`
 function ArticleHeader(props) {
   return (
     <Fragment>
-      <Header article />
-      <TitleBar>
-        <BackArrow to="/#projects">
-          <Icon glyph="arrow" size={64} />
-        </BackArrow>
         <Title>
           <h1>{props.title}</h1>
         </Title>
-      </TitleBar>
     </Fragment>
   )
 }
