@@ -7,4 +7,4 @@ Concerns of a crime wave have been raised primarily by law enforcement agencies.
 
 This project tracks reported crime trends in Chicago on a weekly basis. Incident data is pulled from the Chicago Data Portal.
 
-This project is built using a modified open source website. Check it out on [gabrieladorf.com](https://gabrieladorf.com). Thanks to Gabriel Adorf.
+This project is built using a modified open source website. Check it out on [Github](https://github.com/gabdorf/gabriel-adorf-portfolio). Thanks to Gabriel Adorf.

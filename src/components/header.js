@@ -40,7 +40,7 @@ const NameLink = styled.a`
 
 const Name = styled.h1`
   white-space: nowrap;
-  font-size: ${fontSize.f6};
+  font-size: ${fontSize.f5};
   text-align: left;
   margin: 0;
   line-height: 1.2;
@@ -53,7 +53,7 @@ const Name = styled.h1`
 
 const NameArticle = styled.div`
   white-space: nowrap;
-  font-size: ${fontSize.f2};
+  font-size: ${fontSize.f4};
   font-weight: 700;
   text-align: left;
   margin: 0;
