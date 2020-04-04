@@ -31,9 +31,6 @@ const ImgDiv = styled.div`
 function Footer() {
   return (
     <Section>
-      <ImgDiv>
-      <img src='https://www.luc.edu/media/lucedu/universitymarketingcommunication/horizontal-bw.jpg' alt=''></img>
-      </ImgDiv>
       <FooterText>
         This project is built using a modified open source website. Check it out on&nbsp;
         <a href="https://github.com/gabdorf/gabriel-adorf-portfolio">Github</a>
