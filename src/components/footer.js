@@ -32,8 +32,8 @@ function Footer() {
   return (
     <Section>
       <FooterText>
-        This project is built using a modified open source website. Check it out on&nbsp;
-        <a href="https://github.com/gabdorf/gabriel-adorf-portfolio">Github</a>
+        This project is built and maintained by researchers at Loyola University Chicago <a href='https://www.luc.edu/ccj/'>Center for Criminal Justice Research, Policy, and Practice</a>  and The Medical College of Wisconsin
+        <a href='https://www.mcw.edu/departments/epidemiology#Epidemiology'> Institute for Health and Equity</a> It uses a modified open source website. Check it out on <a href="https://github.com/gabdorf/gabriel-adorf-portfolio">Github</a>
         <br /> Thanks to Gabriel Adorf.
       </FooterText>
     </Section>
