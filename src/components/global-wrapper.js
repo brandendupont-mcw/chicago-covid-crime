@@ -34,7 +34,14 @@ class GlobalWrapper extends React.Component {
           />
           <meta property="og:description" content="Loyola University Chicago" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Loyola University Chicago" />
+          <meta property="og:title" content="Covid-19's Effect on Chicago Crime Trends" />
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163114241-1"></script>
+            <script type="application/ld+json">{`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('config', 'UA-XXX-X');
+            `}</script>
+                    
 
         </Helmet>
         <GlobalStyle displayOutlines={this.state.displayOutlines} />

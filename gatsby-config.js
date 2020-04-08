@@ -4,16 +4,6 @@ module.exports = {
   siteMetadata: {
     title: `Loyola University Chicago`,
   },
-    plugins: [
-      {
-        resolve: `gatsby-plugin-google-analytics`,
-        options: {
-          // replace "UA-XXXXXXXXX-X" with your own Tracking ID
-          trackingId: "UA-163114241-1",
-          head: true,
-        },
-      },
-    ],
   plugins: [
     {
       resolve: "gatsby-plugin-react-svg",
@@ -53,11 +43,5 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-107072121-1',
-      },
-    },
   ],
 }
