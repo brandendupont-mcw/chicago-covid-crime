@@ -1,5 +1,4 @@
 # Covid-19's Effect on Chicago Crime Trends
-Gabriel Adorf's personal website
 
 The coronavirus's rapid spread have required Chicago and Cook County justice agencies to quickly respond to the crisis. On March 24th, Chicago Police directed officers to reduce police stops and issue citations in lieu of low-level misdemeanors. The Cook County Jail began on March 17th a reassesment of bond for primarily non-violent offenders.
 
