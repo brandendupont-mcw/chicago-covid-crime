@@ -6,19 +6,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        // your google analytics tracking id
-        trackingId: `UA-163114241-1`,
-        // Puts tracking script in the head instead of the body
-        head: true,
-        // enable ip anonymization
-        anonymize: true,
-      },
-    },
-  ],
-  plugins: [
-    {
       resolve: "gatsby-plugin-react-svg",
       options: {
         rule: {
@@ -56,5 +43,11 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-styled-components`,
+        {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-163114241-1',
+      },
+    },
   ],
 }
