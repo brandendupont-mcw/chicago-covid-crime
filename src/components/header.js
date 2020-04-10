@@ -5,6 +5,9 @@ import { color, fontSize } from 'styles/theme'
 
 import Icon from 'components/icons'
 
+import LoyolaLogo from '../img/loyolalogo'
+
+
 const Div = styled.div`
   display: flex;
   justify-content: space-between;
@@ -27,7 +30,7 @@ const Div = styled.div`
 const LogoWrapper = styled.div`
   padding: 24px 0 24px 24px;
   ${media.sm`
-    padding: ${props => (props.article ? '24px 0 24px 24px' : '24px 0 0 0')};
+    padding: ${props => (props.article ? '24px 0 2px 24px' : '24px 0 0 0')};
   `};
   ${media.xs`
     padding: 24px 0 0 0;
@@ -95,10 +98,10 @@ const SocialLink = styled.a`
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
   background: white;
-  border-radius: 20px;
+  border-radius: 30px;
   color: ${color.grey900};
   border: 1px solid white;
   &:hover {
@@ -118,8 +121,8 @@ export const SvgWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 24px;
-  min-height: 24px;
+  min-width: 50px;
+  min-height: 50px;
   color: inherit;
   background: inherit;
 `
@@ -204,6 +207,21 @@ class Header extends React.Component {
                 </InlineSvg>
               </SvgWrapper>
             </SocialLink>
+            
+            <SocialLink
+              href={`https://www.luc.edu/ccj/`}
+              onMouseOver={() => this.showTooltip('CCJ Homepage')}
+              onFocus={() => this.showTooltip('CCJ Homepage')}
+              onMouseLeave={this.hideTooltip}
+              onBlur={this.hideTooltip}
+              aria-label="Send an email to Don Stemen"
+            >
+              <SvgWrapper>
+                <LoyolaLogo> </LoyolaLogo>
+
+              </SvgWrapper>
+            </SocialLink>
+
             <SocialLink
               href="https://twitter.com/loyolacjc?lang=en"
               target="blank"

@@ -8,7 +8,7 @@ import HeaderArticle from 'components/article/header'
 
 const HeroSection = styled.section`
   height: 100%;
-  max-height: 200vh;
+  max-height: 300vh;
   display: flex;
   flex-direction: column;
   overflow: hidden;

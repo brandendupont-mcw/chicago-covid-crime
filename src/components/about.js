@@ -7,6 +7,7 @@ import TwoColumns from 'components/twoColumns'
 import SectionHeading from 'components/sectionHeading'
 import DataWrapChart from '../components/datawrap';
 
+
 const Container = styled.div`
   max-width: 700px;
   min-width: 600px;
@@ -39,8 +40,6 @@ function About() {
 <Container>
           <DataWrapChart title="Enforcement Driven Incidents" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/HThKj/4/
 "/>  </Container>
-
-
         </Fragment>
       }
     />
