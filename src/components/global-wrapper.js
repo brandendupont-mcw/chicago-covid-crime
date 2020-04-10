@@ -30,7 +30,7 @@ class GlobalWrapper extends React.Component {
           <meta name="description" content="Loyola University Chicago" />
           <meta
             name="keywords"
-            content="design, ux, ui, product, graphic, health, climbing, app, interface, experience, festival, techno, code"
+            content="coronavirus, cook county jail, jail, trends, chicago, crime, coronavirus impact on crime, coronavirus effect on jail, domestic violence"
           />
           <meta property="og:description" content="Loyola University Chicago" />
           <meta property="og:type" content="website" />
