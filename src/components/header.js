@@ -101,7 +101,7 @@ const SocialLink = styled.a`
   width: 50px;
   height: 50px;
   background: white;
-  border-radius: 30px;
+  border-radius: 10px;
   color: ${color.grey900};
   border: 1px solid white;
   &:hover {
