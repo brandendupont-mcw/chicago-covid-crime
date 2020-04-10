@@ -7,6 +7,7 @@ import About from 'components/about'
 import NotableTrends from 'components/notable_trends'
 import NeighborhoodTrends from 'components/neighborhood'
 import JailPopulation from 'components/jail_population'
+import HomIncTrends from 'components/hom_inc'
 import Footer from 'components/footer'
 import styled from 'styled-components'
 
@@ -24,11 +25,14 @@ export default class App extends React.Component {
         <Section id={'about'}>
           <About />
         </Section>
-        <Section id={'key-trends'}>
-          <NotableTrends/>
-        </Section>
         <Section id={'jail-population'}>
           <JailPopulation/>
+        </Section>
+        <Section id={'hom-inc'}>
+          <HomIncTrends/>
+        </Section>
+        <Section id={'key-trends'}>
+          <NotableTrends/>
         </Section>
         <Section id={'chicago-neighborhoods'}>
           <NeighborhoodTrends/>
