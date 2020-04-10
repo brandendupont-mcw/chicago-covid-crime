@@ -5,7 +5,7 @@ import media from 'utils/media-queries'
 import { color } from 'styles/theme'
 
 const Section = styled.section`
-  margin: 0 96px;
+  margin: 0 40px;
   ${media.lg`
     margin: 0 40px;
   `}

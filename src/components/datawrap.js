@@ -26,7 +26,7 @@ export default function DataWrapChart({ title, src, ...props }) {
     <iframe
       scrolling="no"
       frameBorder="0"
-      width="100%"
+      width="99%"
       {...props}
       title={title}
       src={src}
