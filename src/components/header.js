@@ -223,7 +223,7 @@ class Header extends React.Component {
             </SocialLink>
 
             <SocialLink
-              href="https://twitter.com/loyolacjc?lang=en"
+              href="https://twitter.com/CCJLoyola"
               target="blank"
               onMouseOver={() => this.showTooltip('Twitter')}
               onFocus={() => this.showTooltip('Twitter')}
