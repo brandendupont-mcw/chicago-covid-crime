@@ -30,7 +30,7 @@ function About() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="350" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/2Zkyr/9/
+          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="350" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/2Zkyr/10/
 "/>  </Container>
 
 <br></br>
@@ -38,7 +38,7 @@ function About() {
 <br></br>
 
 <Container>
-          <DataWrapChart title="Enforcement Driven Incidents" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/HThKj/4/
+          <DataWrapChart title="Enforcement Driven Incidents" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/HThKj/5/
 "/>  </Container>
         </Fragment>
       }
