@@ -33,13 +33,6 @@ function NeighborhoodTrends() {
 
           <DataWrapChart title="Chicago Crime by Neighborhood" frameborder="0" aria-label="Symbol map" id="datawrapper-chart-FxQJZ" height="700"  allowfullscreen="true" src="//datawrapper.dwcdn.net/wCJlR/2/
 "/></Container>
-      <br></br>
-      <hr></hr>
-      <br></br>
-
-      <Container>
-          <DataWrapChart title="Percentage Change in Chicago Crime by Neighborhood" frameborder="0" aria-label="Symbol map" id="datawrapper-chart-FxQJZ" min-width="400" height="700"  allowfullscreen="true" src="//datawrapper.dwcdn.net/G8nFd/1/
-"/></Container>
 
         </Fragment>
       }
