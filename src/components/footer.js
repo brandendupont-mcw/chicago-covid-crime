@@ -3,9 +3,12 @@ import styled from 'styled-components'
 import media from 'utils/media-queries'
 import { fontSize } from 'styles/theme'
 import SJCLogo from '../img/sjc_logo'
+import McwSvg from '../img/mcw_svg'
 import Section from 'components/section'
 import LoyolaColorLogo from '../img/color_loyolo_logo'
 import { color} from 'styles/theme'
+
+
 
 
 const FooterText = styled.div`
@@ -63,7 +66,7 @@ function Footer() {
         <p>This project was created with support from the John D. and Catherine T. MacArthur Foundation as part of the <a href="http://www.safetyandjusticechallenge.org/">Safety and Justice Challenge</a> , which seeks to reduce over-incarceration by changing the way America thinks about and uses jails.</p>
       </FooterText>
       <Div>
-      <SvgWrapper> <SJCLogo></SJCLogo></SvgWrapper> <SvgWrapper><LoyolaColorLogo></LoyolaColorLogo> </SvgWrapper>
+      <SvgWrapper> <SJCLogo></SJCLogo></SvgWrapper><SvgWrapper><McwSvg></McwSvg> </SvgWrapper> <SvgWrapper><LoyolaColorLogo></LoyolaColorLogo> </SvgWrapper>
       </Div>
       
     </Section>
