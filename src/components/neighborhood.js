@@ -31,7 +31,7 @@ function NeighborhoodTrends() {
         <Fragment>
         <Container>
 
-          <DataWrapChart title="Chicago Crime by Neighborhood" frameborder="0" aria-label="Symbol map" id="datawrapper-chart-FxQJZ" height="700"  allowfullscreen="true" src="//datawrapper.dwcdn.net/wCJlR/3/
+          <DataWrapChart title="Chicago Crime by Neighborhood" frameborder="0" aria-label="Symbol map" id="datawrapper-chart-FxQJZ" height="700"  allowfullscreen="true" src="//datawrapper.dwcdn.net/wCJlR/4/
 "/></Container>
 
         </Fragment>
