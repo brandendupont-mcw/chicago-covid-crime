@@ -28,7 +28,7 @@ function JailPopulation() {
         rightColumn={
           <Fragment>
             <Container>
-            <DataWrapChart title="Cook County Jail Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/6dP3G/6/
+            <DataWrapChart title="Cook County Jail Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/6dP3G/9/
   "/>  </Container>
   <br></br>
   <hr></hr>

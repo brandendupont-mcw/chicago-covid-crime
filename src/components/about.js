@@ -13,6 +13,7 @@ const Container = styled.div`
   min-width: 600px;
   margin-left: auto;
   margin-right: auto;
+  min-height: 650px;
   ${media.lg`
     max-width: 600px;
   `}
@@ -30,7 +31,7 @@ function About() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="350" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/2Zkyr/11/
+          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="350" height="650"  allowfullscreen="true" src="//datawrapper.dwcdn.net/trqZe/1/
 "/>  </Container>
 
 <br></br>
@@ -38,7 +39,7 @@ function About() {
 <br></br>
 
 <Container>
-          <DataWrapChart title="Enforcement Driven Incidents" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="//datawrapper.dwcdn.net/HThKj/6/
+          <DataWrapChart title="Enforcement Driven Incidents" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="650"  allowfullscreen="true" src="//datawrapper.dwcdn.net/xOKed/1/
 "/>  </Container>
         </Fragment>
       }

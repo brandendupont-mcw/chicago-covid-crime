@@ -36,7 +36,7 @@ function NotableTrends() {
 <hr></hr>
 <br></br>
           <Container>
-          <DataWrapChart title="Reported Incidents of Domestic Violence" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="450"  allowfullscreen="true" src="//datawrapper.dwcdn.net/fzxRz/8/
+          <DataWrapChart title="Reported Incidents of Domestic Violence" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="650"  allowfullscreen="true" src="//datawrapper.dwcdn.net/jTqQO/1/
 "/></Container>
 
         </Fragment>
