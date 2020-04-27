@@ -12,7 +12,7 @@ const Container = styled.div`
   min-width: 600px;
   margin-left: auto;
   margin-right: auto;
-  min-height: 700
+  min-height: 650px;
   ${media.lg`
     max-width: 600px;
   `}
@@ -31,7 +31,7 @@ function NeighborhoodTrends() {
         <Fragment>
         <Container>
 
-          <DataWrapChart title="Chicago Crime by Neighborhood" frameborder="0" aria-label="Symbol map" id="datawrapper-chart-FxQJZ" height="700"  allowfullscreen="true" src="//datawrapper.dwcdn.net/wCJlR/6/
+          <DataWrapChart title="Chicago Crime by Neighborhood" frameborder="0" aria-label="Symbol map" id="datawrapper-chart-FxQJZ" height="700"  allowfullscreen="true" src="//datawrapper.dwcdn.net/hPCKw/1/
 "/></Container>
 
         </Fragment>
