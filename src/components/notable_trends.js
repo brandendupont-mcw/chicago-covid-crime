@@ -30,13 +30,19 @@ function NotableTrends() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="//datawrapper.dwcdn.net/sBmMP/9/
+          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="//datawrapper.dwcdn.net/lwyMY/1/
 "/></Container>
 <br></br>
 <hr></hr>
 <br></br>
           <Container>
-          <DataWrapChart title="Reported Incidents of Domestic Violence" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="650"  allowfullscreen="true" src="//datawrapper.dwcdn.net/jTqQO/1/
+          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="//datawrapper.dwcdn.net/sBmMP/10/
+"/></Container>
+<br></br>
+<hr></hr>
+<br></br>
+          <Container>
+          <DataWrapChart title="Reported Incidents of Domestic Violence" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="650"  allowfullscreen="true" src="//datawrapper.dwcdn.net/jTqQO/2/
 "/></Container>
 
         </Fragment>
