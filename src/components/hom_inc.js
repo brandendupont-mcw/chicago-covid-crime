@@ -37,7 +37,7 @@ function HomIncTrends() {
 <hr></hr>
 <br></br>
           <Container>
-          <DataWrapChart title="Shootings in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="//datawrapper.dwcdn.net/400jS/2/
+          <DataWrapChart title="Shootings in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="//datawrapper.dwcdn.net/400jS/3/
 "/></Container>
 
         </Fragment>
