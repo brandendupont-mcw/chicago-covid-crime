@@ -30,7 +30,7 @@ function HomIncTrends() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Homicides in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="450"  allowfullscreen="true" src="//datawrapper.dwcdn.net/cADlz/3/
+          <DataWrapChart title="Homicides in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="450"  allowfullscreen="true" src="//datawrapper.dwcdn.net/cADlz/4/
 "/>
 </Container>
 <br></br>
