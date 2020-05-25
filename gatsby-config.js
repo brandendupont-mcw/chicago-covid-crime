@@ -15,6 +15,9 @@ module.exports = {
     }
   ],
   plugins: [
+    'gatsby-plugin-theme-ui',
+  ],
+  plugins: [
     {
       resolve: 'gatsby-plugin-root-import',
       options: {
