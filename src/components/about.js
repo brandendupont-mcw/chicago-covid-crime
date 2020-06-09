@@ -31,7 +31,7 @@ function About() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="350" height="650"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/trqZe/9/
+          <DataWrapChart title="Reported Incidents of Crime in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="350" height="650"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/trqZe/10/
 "/>  </Container>
 
 <br></br>
