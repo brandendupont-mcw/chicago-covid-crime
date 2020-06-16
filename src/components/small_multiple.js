@@ -28,7 +28,7 @@ function SmallMultiples() {
 
         <h2> Overall Trends </h2>
 
-        <p> Protests occured in Chicago after George Floyd's was killed. Overall reported trends in crimes changed dramatically due to a large increase in certain offenses — particularly burglary and criminal damage.
+        <p> Protests occured in Chicago after George Floyd was killed. Overall reported trends in crimes changed dramatically due to a large increase in certain offenses — particularly burglary and criminal damage.
             Other reported crimes continued their post-covid trends. The top 12 reported offense types are categorized by: <b style={{color: "#981e4d"}}> &#8594; Decrease in crime, significant effect</b> 
             <b style={{color: "#1a7781"}}> &#8594; Increase in crime, significant effect</b>  <b style={{color: "##5e5e5e"}}> &#8594; No significant effect</b> </p> 
             
