@@ -10,6 +10,7 @@ import JailPopulation from 'components/jail_population'
 import HomIncTrends from 'components/hom_inc'
 import Footer from 'components/footer'
 import styled from 'styled-components'
+import SmallMultiples from 'components/small_multiple'
 
 const Container = styled.div`
         alignItems:'center',
@@ -22,8 +23,8 @@ export default class App extends React.Component {
     return (
       <GlobalWrapper>
         <Hero />
-        <Section id={'about'}>
-          <About />
+        <Section id={'small_multiples'}>
+          <SmallMultiples/>  
         </Section>
         <Section id={'jail-population'}>
           <JailPopulation/>

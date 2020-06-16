@@ -4,7 +4,7 @@ import styled from 'styled-components'
 import media from 'utils/media-queries'
 
 import { color } from 'styles/theme'
-import Icon from 'components/icons'
+
 
 
 const BackArrow = styled(Link)`
