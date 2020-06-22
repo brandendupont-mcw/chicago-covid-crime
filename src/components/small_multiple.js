@@ -75,7 +75,7 @@ function SmallMultiples() {
         height: "300px",
         width: "300px",
         }}
-        src="ttps://datawrapper.dwcdn.net/yqD4M/2/" 
+        src="https://datawrapper.dwcdn.net/yqD4M/2/" 
         />
         <Embed       sx={{
         height: "300px",
