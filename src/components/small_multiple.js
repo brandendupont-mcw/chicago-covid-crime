@@ -29,7 +29,8 @@ function SmallMultiples() {
         <h2> Overall Trends </h2>
 
         <p> Protests occured in Chicago after George Floyd was killed. Overall reported trends in crimes changed dramatically due to a large increase in certain offenses — particularly burglary and criminal damage.
-            Other reported crimes continued their post-covid trends. We used the BSTS modeling approach set forth by Campedelli, Gian M., et al. to gauge the impact of containment policies on overall reported crime. Predicted incidents are the estimated daily counts absent containment policy in Chicago. </p> 
+            Other reported crimes continued their post-covid trends. We used the BSTS modeling approach set forth by Campedelli, Gian M., et al. to gauge the impact of containment policies on <a href="https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2"> overall reported crime.</a> Predicted incidents are the estimated daily counts absent containment policy in Chicago. </p>
+            
             
             <p><b style={{color: "#981e4d"}}> &#8594; Decrease in crime, significant effect</b> 
             <b style={{color: "#1a7781"}}> &#8594; Increase in crime, significant effect</b>  <b style={{color: "##5e5e5e"}}> &#8594; No significant effect</b></p>
@@ -43,77 +44,77 @@ function SmallMultiples() {
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/VvoI6/3/" 
+            src="https://datawrapper.dwcdn.net/VvoI6/4/" 
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/8U9rq/3/" 
+        src="https://datawrapper.dwcdn.net/8U9rq/4/" 
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/jEOUY/5/" 
+        src="https://datawrapper.dwcdn.net/jEOUY/6/" 
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/R2orN/4/" 
+        src="https://datawrapper.dwcdn.net/R2orN/5/" 
         />
         <Embed       sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/Ybd9X/3/" 
+            src="https://datawrapper.dwcdn.net/Ybd9X/4/" 
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/yqD4M/3/" 
+        src="https://datawrapper.dwcdn.net/yqD4M/4/" 
         />
         <Embed       sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/RdD4z/3/"  
+            src="https://datawrapper.dwcdn.net/RdD4z/5/"  
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/tWpQl/3/"
+        src="https://datawrapper.dwcdn.net/tWpQl/4/"
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/upX7l/4/" 
+        src="https://datawrapper.dwcdn.net/upX7l/6/" 
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/2miEP/4/"
+        src="https://datawrapper.dwcdn.net/2miEP/5/"
         />
         <Embed       sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/lx9Kl/3/" 
+            src="https://datawrapper.dwcdn.net/lx9Kl/4/" 
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/eB8CG/3/" 
+        src="https://datawrapper.dwcdn.net/eB8CG/4/" 
         />
 
 
