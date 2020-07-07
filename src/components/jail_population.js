@@ -28,13 +28,13 @@ function JailPopulation() {
         rightColumn={
           <Fragment>
             <Container>
-            <DataWrapChart title="Cook County Jail Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/6dP3G/34/
+            <DataWrapChart title="Cook County Jail Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/6dP3G/35/
   "/>  </Container>
     <br></br>
   <hr></hr>
   <br></br>
   <Container>
-            <DataWrapChart title="Sheriff’s Community Supervision &amp;amp; Electronic Monitoring Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/E4oml/14/
+            <DataWrapChart title="Sheriff’s Community Supervision &amp;amp; Electronic Monitoring Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/E4oml/15/
   "/>  </Container>
 
   <br></br>
