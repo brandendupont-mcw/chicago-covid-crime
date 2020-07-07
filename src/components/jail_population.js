@@ -41,7 +41,7 @@ function JailPopulation() {
   <hr></hr>
   <br></br>
   <Container>
-            <DataWrapChart title="COVID-19 Cases in Cook County Jail" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/DQ2hw/24/
+            <DataWrapChart title="COVID-19 Cases in Cook County Jail" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/DQ2hw/26/
   "/>  </Container>
 
     
