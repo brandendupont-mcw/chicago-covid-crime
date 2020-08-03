@@ -30,14 +30,14 @@ function HomIncTrends() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Homicides in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="450"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/cADlz/7/
+          <DataWrapChart title="Homicides in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="450"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/cADlz/8/
 "/>
 </Container>
 <br></br>
 <hr></hr>
 <br></br>
           <Container>
-          <DataWrapChart title="Shootings in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/400jS/6/
+          <DataWrapChart title="Shootings in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/400jS/7/
 "/></Container>
 
         </Fragment>
