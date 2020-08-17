@@ -30,13 +30,13 @@ function NotableTrends() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/lwyMY/22/
+          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/lwyMY/23/
 "/></Container>
 <br></br>
 <hr></hr>
 <br></br>
           <Container>
-          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="600"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/sBmMP/30/
+          <DataWrapChart title="Top 12 Offenses" frameborder="0" aria-label="Column Chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="600"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/sBmMP/31/
 "/></Container>
 
 
