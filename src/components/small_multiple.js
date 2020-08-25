@@ -48,7 +48,7 @@ function SmallMultiples() {
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/VvoI6/10/" 
+        src="https://datawrapper.dwcdn.net/8U9rq/12/" 
         />
 
         <Embed       sx={{
