@@ -42,77 +42,77 @@ function SmallMultiples() {
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/VvoI6/11/" 
+            src="https://datawrapper.dwcdn.net/VvoI6/12/" 
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/8U9rq/13/" 
+        src="https://datawrapper.dwcdn.net/8U9rq/14/" 
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/jEOUY/12/" 
+        src="https://datawrapper.dwcdn.net/jEOUY/13/" 
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/R2orN/13/" 
+        src="https://datawrapper.dwcdn.net/R2orN/14/" 
         />
         <Embed       sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/Ybd9X/11/" 
+            src="https://datawrapper.dwcdn.net/Ybd9X/12/" 
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/yqD4M/14/"
+        src="https://datawrapper.dwcdn.net/yqD4M/15/"
         />
         <Embed       sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/RdD4z/13/"  
+            src="https://datawrapper.dwcdn.net/RdD4z/14/"  
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/tWpQl/11/"
+        src="https://datawrapper.dwcdn.net/tWpQl/12/"
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/upX7l/14/" 
+        src="https://datawrapper.dwcdn.net/upX7l/15/" 
         />
 
         <Embed       sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/2miEP/13/"
+        src="https://datawrapper.dwcdn.net/2miEP/14/"
         />
         <Embed       sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/lx9Kl/12/" 
+            src="https://datawrapper.dwcdn.net/lx9Kl/13/" 
             />
         <Embed       sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/eB8CG/11/" 
+        src="https://datawrapper.dwcdn.net/eB8CG/12/" 
         />
 
 
