@@ -28,20 +28,20 @@ function JailPopulation() {
         rightColumn={
           <Fragment>
             <Container>
-            <DataWrapChart title="Cook County Jail Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/6dP3G/40/
+            <DataWrapChart title="Cook County Jail Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/6dP3G/41/
   "/>  </Container>
     <br></br>
   <hr></hr>
   <br></br>
   <Container>
-            <DataWrapChart title="Sheriff’s Community Supervision &amp;amp; Electronic Monitoring Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/E4oml/20/
+            <DataWrapChart title="Sheriff’s Community Supervision &amp;amp; Electronic Monitoring Population" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/E4oml/21/
   "/>  </Container>
 
   <br></br>
   <hr></hr>
   <br></br>
   <Container>
-            <DataWrapChart title="COVID-19 Cases in Cook County Jail" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/DQ2hw/32/
+            <DataWrapChart title="COVID-19 Cases in Cook County Jail" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="536"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/DQ2hw/33/
   "/>  </Container>
 
     
