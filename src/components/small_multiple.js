@@ -42,77 +42,77 @@ function SmallMultiples() {
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/VvoI6/13/" 
+            src="https://datawrapper.dwcdn.net/VvoI6/14/" 
             />
         <Embed id='Battery'      sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/8U9rq/15/" 
+        src="https://datawrapper.dwcdn.net/8U9rq/16/" 
         />
 
         <Embed id="Burglary"      sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/jEOUY/14/" 
+        src="https://datawrapper.dwcdn.net/jEOUY/15/" 
         />
 
         <Embed  id='criminal damage'     sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/R2orN/15/" 
+        src="https://datawrapper.dwcdn.net/R2orN/16/" 
         />
         <Embed  id="criminal trespass"     sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/Ybd9X/13/" 
+            src="https://datawrapper.dwcdn.net/Ybd9X/14/" 
             />
         <Embed   id='Domestic Violence'    sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/yqD4M/16/"
+        src="https://datawrapper.dwcdn.net/yqD4M/17/"
         />
         <Embed   id='Motor Vehicle Theft'    sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/RdD4z/15/"  
+            src="https://datawrapper.dwcdn.net/RdD4z/16/"  
             />
         <Embed   id="Narcotics"    sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/tWpQl/13/"
+        src="https://datawrapper.dwcdn.net/tWpQl/14/"
         />
 
         <Embed   id="other offense"    sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/upX7l/16/" 
+        src="https://datawrapper.dwcdn.net/upX7l/17/" 
         />
 
         <Embed  id="Robbery"     sx={{
         height: "300px",
         width: "300px",
             }}
-        src="https://datawrapper.dwcdn.net/2miEP/15/"
+        src="https://datawrapper.dwcdn.net/2miEP/16/"
         />
         <Embed   id="Theft"    sx={{
         height: "300px",
         width: "300px",
                 }}
-            src="https://datawrapper.dwcdn.net/lx9Kl/14/" 
+            src="https://datawrapper.dwcdn.net/lx9Kl/15/" 
             />
         <Embed    id="Weapons Violations"   sx={{
         height: "300px",
         width: "300px",
         }}
-        src="https://datawrapper.dwcdn.net/eB8CG/13/" 
+        src="https://datawrapper.dwcdn.net/eB8CG/14/" 
         />
 
 
