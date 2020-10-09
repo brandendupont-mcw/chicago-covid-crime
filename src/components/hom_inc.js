@@ -1,12 +1,10 @@
-import React, { Fragment } from 'react'
-import styled from 'styled-components'
-import media from 'utils/media-queries'
+import React, { Fragment } from "react";
+import styled from "styled-components";
+import media from "utils/media-queries";
 
-
-import TwoColumns from 'components/twoColumns'
-import SectionHeading from 'components/sectionHeading'
-import DataWrapChart from '../components/datawrap';
-
+import TwoColumns from "components/twoColumns";
+import SectionHeading from "components/sectionHeading";
+import DataWrapChart from "../components/datawrap";
 
 const Container = styled.div`
   max-width: 700px;
@@ -21,7 +19,7 @@ const Container = styled.div`
   margin-left: auto;
   margin-right: auto;
 `}
-`
+`;
 
 function HomIncTrends() {
   return (
@@ -30,20 +28,38 @@ function HomIncTrends() {
       rightColumn={
         <Fragment>
           <Container>
-          <DataWrapChart title="Homicides in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" height="450"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/cADlz/9/
-"/>
-</Container>
-<br></br>
-<hr></hr>
-<br></br>
+            <DataWrapChart
+              title="Homicides in Chicago"
+              frameborder="0"
+              aria-label="Interactive line chart"
+              id="datawrapper-chart-FxQJZ"
+              min-width="400"
+              height="450"
+              allowfullscreen="true"
+              src="https://datawrapper.dwcdn.net/cADlz/10/
+"
+            />
+          </Container>
+          <br></br>
+          <hr></hr>
+          <br></br>
           <Container>
-          <DataWrapChart title="Shootings in Chicago" frameborder="0" aria-label="Interactive line chart" id="datawrapper-chart-FxQJZ" min-width="400" min-height="550"  allowfullscreen="true" src="https://datawrapper.dwcdn.net/400jS/8/
-"/></Container>
-
+            <DataWrapChart
+              title="Shootings in Chicago"
+              frameborder="0"
+              aria-label="Interactive line chart"
+              id="datawrapper-chart-FxQJZ"
+              min-width="400"
+              min-height="550"
+              allowfullscreen="true"
+              src="https://datawrapper.dwcdn.net/400jS/9/
+"
+            />
+          </Container>
         </Fragment>
       }
     />
-  )
+  );
 }
 
-export default HomIncTrends
+export default HomIncTrends;
