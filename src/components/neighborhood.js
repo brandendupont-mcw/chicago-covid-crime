@@ -26,8 +26,8 @@ const Container = styled.div`
 
 // defined two iframes
 const srcs = {
-  chart: "https://datawrapper.dwcdn.net/hPCKw/29/",
-  map: "https://datawrapper.dwcdn.net/9zRw1/19/",
+  chart: "https://datawrapper.dwcdn.net/hPCKw/30/",
+  map: "https://datawrapper.dwcdn.net/9zRw1/20/",
 };
 
 const tabColor = ["#EDEDED", "white"];
