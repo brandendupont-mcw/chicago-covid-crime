@@ -61,7 +61,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/VvoI6/19/"
+          src="https://datawrapper.dwcdn.net/VvoI6/"
         />
         <Embed
           id="Battery"
@@ -69,7 +69,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/8U9rq/21/"
+          src="https://datawrapper.dwcdn.net/8U9rq/"
         />
 
         <Embed
@@ -78,7 +78,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/jEOUY/20/"
+          src="https://datawrapper.dwcdn.net/jEOUY/"
         />
 
         <Embed
@@ -87,7 +87,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/R2orN/21/"
+          src="https://datawrapper.dwcdn.net/R2orN/"
         />
         <Embed
           id="criminal trespass"
@@ -95,7 +95,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/Ybd9X/19/"
+          src="https://datawrapper.dwcdn.net/Ybd9X/"
         />
         <Embed
           id="Domestic Violence"
@@ -103,7 +103,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/yqD4M/20/"
+          src="https://datawrapper.dwcdn.net/yqD4M/"
         />
         <Embed
           id="Motor Vehicle Theft"
@@ -111,7 +111,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/RdD4z/21/"
+          src="https://datawrapper.dwcdn.net/RdD4z/"
         />
         <Embed
           id="Narcotics"
@@ -119,7 +119,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/tWpQl/19/"
+          src="https://datawrapper.dwcdn.net/tWpQl/"
         />
 
         <Embed
@@ -128,7 +128,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/upX7l/22/"
+          src="https://datawrapper.dwcdn.net/upX7l/"
         />
 
         <Embed
@@ -137,7 +137,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/2miEP/5/"
+          src="https://datawrapper.dwcdn.net/2miEP/"
         />
         <Embed
           id="Theft"
@@ -145,7 +145,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/lx9Kl/20/"
+          src="https://datawrapper.dwcdn.net/lx9Kl/"
         />
         <Embed
           id="Weapons Violations"
@@ -153,7 +153,7 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/eB8CG/19/"
+          src="https://datawrapper.dwcdn.net/eB8CG/"
         />
       </Grid>
     </Fragment>

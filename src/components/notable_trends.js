@@ -52,7 +52,7 @@ function NotableTrends() {
               min-width="400"
               min-height="600"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/sBmMP/41/
+              src="https://datawrapper.dwcdn.net/sBmMP/
 "
             />
           </Container>

@@ -36,7 +36,7 @@ function HomIncTrends() {
               min-width="400"
               height="450"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/cADlz/11/
+              src="https://datawrapper.dwcdn.net/cADlz/
 "
             />
           </Container>
@@ -52,7 +52,7 @@ function HomIncTrends() {
               min-width="400"
               min-height="550"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/400jS/10/
+              src="https://datawrapper.dwcdn.net/400jS/
 "
             />
           </Container>
