@@ -36,7 +36,7 @@ function NotableTrends() {
               min-width="400"
               min-height="550"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/lwyMY/32/
+              src="https://datawrapper.dwcdn.net/lwyMY/
 "
             />
           </Container>
