@@ -5,6 +5,7 @@ import media from "utils/media-queries";
 import TwoColumns from "components/twoColumns";
 import SectionHeading from "components/sectionHeading";
 import DataWrapChart from "../components/datawrap";
+import axios from "axios";
 
 const Container = styled.div`
   max-width: 700px;
@@ -20,6 +21,14 @@ const Container = styled.div`
   margin-right: auto;
 `}
 `;
+
+const fetchDW = async () => {
+  const response = await axios.get(
+    "https://api.datawrapper.de/v3/oembed?format=json&url=https%3A%2F%2Fdatawrapper.dwcdn.net%2FWpAbK%2F2%2F"
+  );
+
+  console.log(response.data);
+};
 
 function HomIncTrends() {
   return (
@@ -55,6 +64,8 @@ function HomIncTrends() {
               src="https://datawrapper.dwcdn.net/400jS/
 "
             />
+
+            <button onClick={fetchDW}> oembed request </button>
           </Container>
         </Fragment>
       }
