@@ -6,7 +6,7 @@ export default function DataWrapChart({ title, src, ...props }) {
 
   const [height, setState] = useState(500);
 
-  const src = src;
+  const srcNew = src;
 
   const onMessage = useCallback(
     ({ data = {} }) => {
@@ -32,7 +32,7 @@ export default function DataWrapChart({ title, src, ...props }) {
       width="99%"
       {...props}
       title={title}
-      src={src}
+      src={srcNew}
       height={height}
     />
   );
