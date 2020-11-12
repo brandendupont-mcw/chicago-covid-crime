@@ -6,6 +6,8 @@ export default function DataWrapChart({ title, src, ...props }) {
 
   const [height, setState] = useState(500);
 
+  const src = src;
+
   const onMessage = useCallback(
     ({ data = {} }) => {
       if (typeof data === "string") return;
