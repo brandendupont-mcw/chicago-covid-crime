@@ -35,7 +35,7 @@ function JailPopulation() {
               min-width="400"
               height="536"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/6dP3G/44/
+              src="https://datawrapper.dwcdn.net/6dP3G/
   "
             />{" "}
           </Container>
@@ -51,7 +51,7 @@ function JailPopulation() {
               min-width="400"
               height="536"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/E4oml/23/
+              src="https://datawrapper.dwcdn.net/E4oml/
   "
             />{" "}
           </Container>
@@ -68,7 +68,7 @@ function JailPopulation() {
               min-width="400"
               height="536"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/DQ2hw/34/
+              src="https://datawrapper.dwcdn.net/DQ2hw/
   "
             />{" "}
           </Container>
