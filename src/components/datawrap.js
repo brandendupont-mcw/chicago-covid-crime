@@ -8,6 +8,10 @@ export default function DataWrapChart({ title, src, ...props }) {
 
   const srcNew = src;
 
+  const randomNum = Math.floor(Math.random() * 1000);
+
+  const randomId = id + randomNum.toString() + Date.now();
+
   const onMessage = useCallback(
     ({ data = {} }) => {
       if (typeof data === "string") return;
@@ -34,6 +38,7 @@ export default function DataWrapChart({ title, src, ...props }) {
       title={title}
       src={srcNew}
       height={height}
+      name={randomId}
     />
   );
 }
