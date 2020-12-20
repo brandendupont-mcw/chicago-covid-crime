@@ -20,6 +20,10 @@ const Container = styled.div`
 `}
 `;
 
+const randomNum = Math.floor(Math.random() * 1000);
+
+const randomId = randomNum.toString() + Date.now();
+
 function SmallMultiples() {
   return (
     <Fragment>
@@ -62,6 +66,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/VvoI6/"
+          name={1 + randomId}
         />
         <Embed
           id="Battery"
@@ -70,6 +75,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/8U9rq/"
+          name={2 + randomId}
         />
 
         <Embed
@@ -79,6 +85,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/jEOUY/"
+          name={3 + randomId}
         />
 
         <Embed
@@ -88,6 +95,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/R2orN/"
+          name={4 + randomId}
         />
         <Embed
           id="criminal trespass"
@@ -96,6 +104,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/Ybd9X/"
+          name={5 + randomId}
         />
         <Embed
           id="Domestic Violence"
@@ -104,6 +113,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/yqD4M/"
+          name={6 + randomId}
         />
         <Embed
           id="Motor Vehicle Theft"
@@ -112,6 +122,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/RdD4z/"
+          name={7 + randomId}
         />
         <Embed
           id="Narcotics"
@@ -119,7 +130,8 @@ function SmallMultiples() {
             height: "300px",
             width: "300px",
           }}
-          src="https://datawrapper.dwcdn.net/tWpQl/"
+          src="https://datawrapper.dwcdn.net/viWNb/"
+          name={8 + randomId}
         />
 
         <Embed
@@ -129,6 +141,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/upX7l/"
+          name={9 + randomId}
         />
 
         <Embed
@@ -138,6 +151,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/2miEP/"
+          name={10 + randomId}
         />
         <Embed
           id="Theft"
@@ -146,6 +160,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/lx9Kl/"
+          name={11 + randomId}
         />
         <Embed
           id="Weapons Violations"
@@ -154,6 +169,7 @@ function SmallMultiples() {
             width: "300px",
           }}
           src="https://datawrapper.dwcdn.net/eB8CG/"
+          name={12 + randomId}
         />
       </Grid>
     </Fragment>
