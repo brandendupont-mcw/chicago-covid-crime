@@ -5,6 +5,8 @@ import media from "utils/media-queries";
 import TwoColumns from "components/twoColumns";
 import SectionHeading from "components/sectionHeading";
 import DataWrapChart from "../components/datawrap";
+import { Grid } from "theme-ui";
+import { Embed } from "theme-ui";
 
 const Container = styled.div`
   max-width: 700px;
@@ -20,6 +22,11 @@ const Container = styled.div`
   margin-right: auto;
 `}
 `;
+
+const randomNum = Math.floor(Math.random() * 1000);
+
+const randomId = randomNum.toString() + Date.now();
+
 function JailPopulation() {
   return (
     <TwoColumns
@@ -27,6 +34,32 @@ function JailPopulation() {
       rightColumn={
         <Fragment>
           <Container>
+            <h2>Weekly Jail Population and Electronic Monitoring Trends</h2>
+            <DataWrapChart
+              title="Cook County Jail Population"
+              frameborder="0"
+              aria-label="Interactive line chart"
+              id="datawrapper-chart-FxQJZ"
+              min-width="400"
+              height="536"
+              allowfullscreen="true"
+              src="https://datawrapper.dwcdn.net/sfZaf/
+  "
+            />
+            <DataWrapChart
+              title="Cook County SEM"
+              frameborder="0"
+              aria-label="Interactive line chart"
+              id="datawrapper-chart-FxQJZ"
+              min-width="400"
+              height="536"
+              allowfullscreen="true"
+              src="https://datawrapper.dwcdn.net/WDE1x/
+  "
+            />
+            <br></br>
+            <hr></hr>
+            <br></br>
             <DataWrapChart
               title="Cook County Jail Population"
               frameborder="0"
