@@ -43,31 +43,6 @@ function JailPopulation() {
               min-width="400"
               height="536"
               allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/sfZaf/
-  "
-            />
-            <DataWrapChart
-              title="Cook County SEM"
-              frameborder="0"
-              aria-label="Interactive line chart"
-              id="datawrapper-chart-FxQJZ"
-              min-width="400"
-              height="536"
-              allowfullscreen="true"
-              src="https://datawrapper.dwcdn.net/WDE1x/
-  "
-            />
-            <br></br>
-            <hr></hr>
-            <br></br>
-            <DataWrapChart
-              title="Cook County Jail Population"
-              frameborder="0"
-              aria-label="Interactive line chart"
-              id="datawrapper-chart-FxQJZ"
-              min-width="400"
-              height="536"
-              allowfullscreen="true"
               src="https://datawrapper.dwcdn.net/6dP3G/
   "
             />{" "}
