@@ -34,7 +34,6 @@ function JailPopulation() {
       rightColumn={
         <Fragment>
           <Container>
-            <h3>Weekly Jail Population and Electronic Monitoring Trends</h3>
             <DataWrapChart
               title="Cook County Jail Population"
               frameborder="0"
