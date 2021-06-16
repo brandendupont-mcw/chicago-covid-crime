@@ -59,17 +59,21 @@ function SmallMultiples() {
       </p>
 
       <Grid gap={0} columns={[3]} width={[300]}>
-        <Embed
+        <iframe
+          scrolling="no"
+          frameborder="0"
           id="Assault"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/VvoI6/"
           name={1 + randomId}
         />
-        <Embed
+        <iframe
           id="Battery"
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           sx={{
             height: "300px",
             width: "300px",
@@ -78,96 +82,96 @@ function SmallMultiples() {
           name={2 + randomId}
         />
 
-        <Embed
+        <iframe
           id="Burglary"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/jEOUY/"
           name={3 + randomId}
         />
 
-        <Embed
+        <iframe
           id="criminal damage"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/R2orN/"
           name={4 + randomId}
         />
-        <Embed
+        <iframe
           id="criminal trespass"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/Ybd9X/"
           name={5 + randomId}
         />
-        <Embed
+        <iframe
           id="Domestic Violence"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/yqD4M/"
           name={6 + randomId}
         />
-        <Embed
+        <iframe
           id="Motor Vehicle Theft"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/RdD4z/"
           name={7 + randomId}
         />
-        <Embed
+        <iframe
           id="Narcotics"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/viWNb/"
           name={8 + randomId}
         />
 
-        <Embed
+        <iframe
           id="other offense"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/upX7l/"
           name={9 + randomId}
         />
 
-        <Embed
+        <iframe
           id="Robbery"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/2miEP/"
           name={10 + randomId}
         />
-        <Embed
+        <iframe
           id="Theft"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/lx9Kl/"
           name={11 + randomId}
         />
-        <Embed
+        <iframe
           id="Weapons Violations"
-          sx={{
-            height: "300px",
-            width: "300px",
-          }}
+          scrolling="no"
+          frameborder="0"
+          height="300px"
+          width="300px"
           src="https://datawrapper.dwcdn.net/eB8CG/"
           name={12 + randomId}
         />
